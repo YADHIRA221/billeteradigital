@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Unipay",
+  "description": "Unipay - Billetera digital móvil para estudiantes de la Universidad de Ciencias y Humanidades (UCH) para gestionar saldo, recargas, pagos QR en campus, pago de servicios académicos y control financiero.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
